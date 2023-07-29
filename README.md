@@ -1,6 +1,6 @@
 # 💻 Stephen Chukwuani 
 
-> If you are here, you are probably wondering what I'm about. 
+> Who is Stephen Chukwuani? 
 
 I'm a Frontend developer and Computer Engineer building stuff one step at a time. I don't have any million-dollar ideas so I make clones of famous applications and contribute to open source. I try to write content from time to time on my Twitter. Please go and check it out.
 
