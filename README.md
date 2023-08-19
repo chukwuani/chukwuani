@@ -2,7 +2,9 @@
 
 > Who is Stephen Chukwuani? 
 
-I'm a Frontend developer and Computer Engineer building stuff one step at a time. I don't have any million-dollar ideas so I make clones of famous applications and contribute to open source. I try to write content from time to time on my Twitter. Please go and check it out.
+<!---I'm a Frontend developer and Computer Engineer building stuff one step at a time. I don't have any million-dollar ideas so I make clones of famous applications and contribute to open source. I try to write content from time to time on my Twitter. Please go and check it out.--->
+
+Computer engineering student building user interfaces. As a Frontend engineer I build UI with great user experience. I am not creative with ideas so I clone existing projects to my pixel perfection, learn from it, and build more stuff.
 
 <!---
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/_stevecodes) 
