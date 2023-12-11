@@ -1,4 +1,4 @@
-![Banner](chukwuani/assets/Black-Modern-3D-Artist-Twitter-Header.png")
+![Banner](assets/Black-Modern-3D-Artist-Twitter-Header.png")
 
 > Who is Stephen Chukwuani? 
 
