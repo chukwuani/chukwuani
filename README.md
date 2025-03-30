@@ -17,31 +17,12 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23000000.svg?style=for-the-badge&logo=firebase&logoColor=#00C7B7)
 
 <!---
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 --->
-
-#
-
-- 🔭 I’m currently working on something (probably).
-
-- 🌱 I’m currently learning C
-
-- 💞️ I’m looking to collaborate on Open-Source Projects
-
-- 🤔 I’m looking for help with nice web animations with GSAP/framer-motion, accessibility etc.
-
-- 💬 Ask me about Frontend Web Development.
-
-- 📫 How to reach me ... chukwuanisteven@gmail.com
-
-- ♂️ Pronouns: he / his
-
-- 🎮 Fun fact: I love playing games.
 
 
 
