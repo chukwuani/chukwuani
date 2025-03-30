@@ -3,7 +3,7 @@
 > Who is Stephen Chukwuani? 
 
 <p align="left">
-👋 Hey there! I'm a Computer engineering student building user interfaces for the web. I build user-friendly interfaces with great user experience. I'm always looking to improve and challenge myself.
+👋 Hey there! I'm a Computer engineering student building stuff for the web and mobile. I build user interfaces, and I'm currently learning fullstack development, from UI frameworks to database architecture. I'm always looking to improve and challenge myself.  
 </p>
 
 #
@@ -16,15 +16,20 @@
 <br/>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NODE JS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
+<br/>
+![EXPRESS JS](https://img.shields.io/badge/Express-%23000000?style=for-the-badge&logo=express&logoColor=white)
+![MONGODB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 <!---
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 --->
 
-
+- 🔭 I’m currently working on something (probably).
+- 🌱 I’m currently learning everything and anything in JS
+- 💞️ I’m looking to collaborate on Open-Source Projects
 
 <!---
 chukwuani/chukwuani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
